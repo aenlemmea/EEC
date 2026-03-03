@@ -30,7 +30,7 @@
  auto-save-timeout 0
  debug-on-error nil)
 
-(setq initial-major-mode 'text-mode)
+(setq initial-major-mode 'fundamental-mode)
 
 
 (menu-bar-mode -1)
